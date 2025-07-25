@@ -4,7 +4,6 @@ class Mobile
     String model;
     static int price;
 
-    // Method
     public void detail()
     {
         System.out.println(brand + " " + model + " : " + price);
