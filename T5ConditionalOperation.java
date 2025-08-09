@@ -4,7 +4,7 @@ class conditionalOperation
     {
         int a = 10, b = 17;
 
-        //if - else
+        // if - else
         if(a < b)
         {
             System.out.println(a);
@@ -16,7 +16,7 @@ class conditionalOperation
 
         int c = 10;
 
-        //if - else if
+        // if - else if
         if(a > b || a < c)
         {
             System.out.println(a);
@@ -32,7 +32,7 @@ class conditionalOperation
 
         int n = 2;
 
-        //switch-case
+        // switch-case
         switch(n)
         {
             case 1:
@@ -60,7 +60,7 @@ class conditionalOperation
 
         String result;
 
-        //Extra : Checking as Odd / Even
+        // Extra : Checking as Odd / Even
         if(c % 2 == 0)
         {
             result = "Even-number";

@@ -7,7 +7,7 @@ class Human
     public Human()
     {
         name = "Dil";
-        age = 26;
+        age = 27;
     }                                
 
     public Human(String name, int age)
@@ -40,7 +40,7 @@ class Human
 
 class Constructor
 {
-    public static void main(String [] args)
+    public static void main(String[] args)
     {
         Human obj1 = new Human();
         System.out.println(obj1.getName() + " " + obj1.getAge());

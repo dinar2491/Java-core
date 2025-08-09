@@ -9,7 +9,7 @@ class Array
 {
     public static void main(String[] args)
     {
-        //Single
+        // Single
         int arrS[] = new int[4];
         arrS[0] = 25;
         arrS[1] = 29;
@@ -23,7 +23,7 @@ class Array
 
         System.out.println(" ");
 
-        //Multi
+        // Multi
         int arrM[][] = new int[3][4];
 
         for(int i = 0; i < 3; i++)
@@ -45,7 +45,7 @@ class Array
 
         System.out.println(" ");
 
-        //jagged
+        // jagged
         int arrJ[][] = new int[3][];
         arrJ[0] = new int[4];
         arrJ[1] = new int[5];
@@ -70,7 +70,7 @@ class Array
 
         System.out.println(" ");
         
-        //Extra : Roll-Name-Mark
+        // Extra : Roll-Name-Mark
         Student S1 = new Student();
         S1.roll = 29;
         S1.name = "Sheikh";

@@ -36,6 +36,6 @@ class Strng
 
         // Subtraction
         SbU.delete(10, 12);
-        System.out.println(SbU);
+        System.out.print(SbU);
     }
 }

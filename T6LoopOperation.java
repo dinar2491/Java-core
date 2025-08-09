@@ -4,7 +4,7 @@ class loopOperation
     {
         int a = 1;
 
-        //while
+        // while
         while(a <= 2)
         {
             System.out.println("Hi, friend - " + a + "!");
@@ -23,7 +23,7 @@ class loopOperation
 
         int c = 3;
 
-        //do-while
+        // do-while
         do
         {
             System.out.println("Hi, friend - " + c + "!");
@@ -33,7 +33,7 @@ class loopOperation
 
         System.out.println(" ");
 
-        //for
+        // for
         for(int i = 1; i < 6; i++)
         {
             System.out.println("Day - " + i);
